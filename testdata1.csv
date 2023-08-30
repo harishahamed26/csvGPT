@@ -1,0 +1,35 @@
+Item Name,Category,Quantity,Unit Price,Supplier,Purchase Date,Expiration Date,Total Cost,Revenue,Expenses
+Apples,Fruits,100,0.5,FruitCo,2023-07-01,2023-07-10,50,120,30
+Bananas,Fruits,150,0.4,FruitCo,2023-06-25,2023-07-05,60,90,40
+Carrots,Vegetables,80,0.3,VeggieFarms,2023-07-02,2023-07-12,24,60,20
+Chicken Breast,Meat,40,1.5,MeatSupplier,2023-06-28,2023-07-07,60,100,40
+Salmon Fillet,Seafood,30,2.0,SeafoodInc,2023-06-30,2023-07-09,60,90,30
+Bread,Grains,50,0.8,BakeryCo,2023-07-01,2023-07-06,40,100,60
+Milk,Dairy,60,1.0,DairyFarm,2023-07-03,2023-07-08,60,120,60
+Eggs,Dairy,100,0.2,LocalFarm,2023-06-29,2023-07-15,20,60,40
+Lettuce,Vegetables,70,0.4,VeggieFarms,2023-07-04,2023-07-11,28,70,42
+Tomatoes,Fruits,90,0.6,FruitCo,2023-06-27,2023-07-10,54,90,36
+Sirloin Steak,Meat,50,8.5,LocalButcher,2023-07-01,2023-07-06,425,950,525
+Salmon Fillet,Seafood,40,7.0,SeafoodInc,2023-06-28,2023-07-05,280,600,320
+Roast Chicken,Meat,60,6.0,LocalPoultry,2023-07-02,2023-07-08,360,800,440
+Mixed Greens,Vegetables,30,2.5,LocalFarm,2023-07-01,2023-07-06,75,150,75
+Cod Fillet,Seafood,25,6.8,SeafoodInc,2023-06-29,2023-07-04,170,425,255
+Baguette,Bread,80,1.2,LocalBakery,2023-06-30,2023-07-05,96,240,144
+Cheddar Cheese,Dairy,40,3.0,LocalDairy,2023-07-03,2023-07-09,120,200,80
+Pasta,Grains,70,1.0,LocalSupplier,2023-07-02,2023-07-07,70,140,70
+Chocolate Cake,Dessert,20,4.5,LocalBakery,2023-06-28,2023-07-03,90,180,90
+Ice Cream,Dessert,60,2.0,LocalDairy,2023-06-30,2023-07-08,120,300,180
+Scotch Egg,Snacks,40,2.2,LocalButcher,2023-07-01,2023-07-07,88,160,72
+Smoked Salmon,Seafood,35,5.5,SeafoodInc,2023-06-29,2023-07-04,192.5,385,192.5
+Cucumber,Vegetables,25,1.0,LocalFarm,2023-07-02,2023-07-06,25,75,50
+Brie Cheese,Dairy,30,2.8,LocalDairy,2023-07-03,2023-07-08,84,150,66
+Crispy Fries,Side,60,1.5,LocalSupplier,2023-06-28,2023-07-03,90,180,90
+Tuna Steak,Seafood,20,7.2,SeafoodInc,2023-06-30,2023-07-08,144,260,116
+Lamb Chops,Meat,45,9.0,LocalButcher,2023-06-29,2023-07-05,405,720,315
+Rice,Grains,100,0.5,LocalSupplier,2023-06-27,2023-07-02,50,150,100
+Cheesecake,Dessert,30,4.0,LocalBakery,2023-07-01,2023-07-07,120,300,180
+Sausages,Meat,55,3.5,LocalButcher,2023-07-02,2023-07-09,192.5,330,137.5
+
+
+
+
