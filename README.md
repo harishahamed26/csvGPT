@@ -1,4 +1,4 @@
-# csvGPT
+# FoodGPT
 The platform takes CSV files and will be ready to do conversations with the CSV and Bot
 
 
